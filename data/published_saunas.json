@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "sauna_name": "Harvia KIP-60B1 (6.0 kW 240V) Wall-Mount Sauna Heater",
+    "slug": "harvia-kip-60b1-60-kw-240v-wall-mount-sauna-heater-kw-breaker-calculator",
+    "title": "Harvia KIP-60B1 (6.0 kW 240V) Wall-Mount Sauna Heater kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (6.0 kW for 420 Adjusted Cu Ft / 210 Raw Cu Ft), 240V NEC breaker & wire (40A / 8/2 AWG Stranded Copper (90°C Rated)), and 50 lbs olivine rocks for Harvia KIP-60B1 (6.0 kW 240V) Wall-Mount Sauna Heater.",
+    "kw": 6.0,
+    "brk_a": 40,
+    "adj_cu": 420,
+    "stones": 50,
+    "date": "2026-11-09"
+  },
+  {
+    "sauna_name": "Harvia KIP-80B1 (8.0 kW 240V) Traditional Sauna Heater",
+    "slug": "harvia-kip-80b1-80-kw-240v-traditional-sauna-heater-kw-breaker-calculator",
+    "title": "Harvia KIP-80B1 (8.0 kW 240V) Traditional Sauna Heater kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (8.0 kW for 564 Adjusted Cu Ft / 294 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 50 lbs olivine rocks for Harvia KIP-80B1 (8.0 kW 240V) Traditional Sauna Heater.",
+    "kw": 8.0,
+    "brk_a": 50,
+    "adj_cu": 564,
+    "stones": 50,
+    "date": "2026-11-09"
+  },
+  {
+    "sauna_name": "Harvia KIP-45B1 (4.5 kW 240V) Compact Sauna Heater",
+    "slug": "harvia-kip-45b1-45-kw-240v-compact-sauna-heater-kw-breaker-calculator",
+    "title": "Harvia KIP-45B1 (4.5 kW 240V) Compact Sauna Heater kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (4.5 kW for 310 Adjusted Cu Ft / 130 Raw Cu Ft), 240V NEC breaker & wire (30A / 10/2 AWG Copper (90°C Rated THHN/NM-B)), and 50 lbs olivine rocks for Harvia KIP-45B1 (4.5 kW 240V) Compact Sauna Heater.",
+    "kw": 4.5,
+    "brk_a": 30,
+    "adj_cu": 310,
+    "stones": 50,
+    "date": "2026-11-09"
+  }
+]
