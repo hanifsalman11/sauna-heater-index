@@ -31,5 +31,38 @@
     "adj_cu": 310,
     "stones": 50,
     "date": "2026-11-09"
+  },
+  {
+    "sauna_name": "Harvia Cilindro PC70 / PC90 (6.8 kW & 9.0 kW) Pillar Heater",
+    "slug": "harvia-cilindro-pc70-pc90-68-kw-90-kw-pillar-heater-kw-breaker-calculator",
+    "title": "Harvia Cilindro PC70 / PC90 (6.8 kW & 9.0 kW) Pillar Heater kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (9.0 kW for 722 Adjusted Cu Ft / 392 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 180 lbs olivine rocks for Harvia Cilindro PC70 / PC90 (6.8 kW & 9.0 kW) Pillar Heater.",
+    "kw": 9.0,
+    "brk_a": 50,
+    "adj_cu": 722,
+    "stones": 180,
+    "date": "2026-11-09"
+  },
+  {
+    "sauna_name": "Harvia The Wall SW60 & SW80 (6.0 kW / 8.0 kW) Sauna Heater",
+    "slug": "harvia-the-wall-sw60-sw80-60-kw-80-kw-sauna-heater-kw-breaker-calculator",
+    "title": "Harvia The Wall SW60 & SW80 (6.0 kW / 8.0 kW) Sauna Heater kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (8.0 kW for 534 Adjusted Cu Ft / 294 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 45 lbs olivine rocks for Harvia The Wall SW60 & SW80 (6.0 kW / 8.0 kW) Sauna Heater.",
+    "kw": 8.0,
+    "brk_a": 50,
+    "adj_cu": 534,
+    "stones": 45,
+    "date": "2026-11-09"
+  },
+  {
+    "sauna_name": "Harvia Spirit SP60E & SP80E Wi-Fi Curved Stone Heater",
+    "slug": "harvia-spirit-sp60e-sp80e-wi-fi-curved-stone-heater-kw-breaker-calculator",
+    "title": "Harvia Spirit SP60E & SP80E Wi-Fi Curved Stone Heater kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (8.0 kW for 564 Adjusted Cu Ft / 294 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 110 lbs olivine rocks for Harvia Spirit SP60E & SP80E Wi-Fi Curved Stone Heater.",
+    "kw": 8.0,
+    "brk_a": 50,
+    "adj_cu": 564,
+    "stones": 110,
+    "date": "2026-11-09"
   }
 ]
