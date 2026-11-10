@@ -130,5 +130,38 @@
     "adj_cu": 606,
     "stones": 50,
     "date": "2026-11-10"
+  },
+  {
+    "sauna_name": "VEVOR 4.5 kW 240V Compact Home Sauna Heater Stove",
+    "slug": "vevor-45-kw-240v-compact-home-sauna-heater-stove-kw-breaker-calculator",
+    "title": "VEVOR 4.5 kW 240V Compact Home Sauna Heater Stove kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (4.5 kW for 310 Adjusted Cu Ft / 130 Raw Cu Ft), 240V NEC breaker & wire (30A / 10/2 AWG Copper (90°C Rated THHN/NM-B)), and 35 lbs olivine rocks for VEVOR 4.5 kW 240V Compact Home Sauna Heater Stove.",
+    "kw": 4.5,
+    "brk_a": 30,
+    "adj_cu": 310,
+    "stones": 35,
+    "date": "2026-11-10"
+  },
+  {
+    "sauna_name": "Tylo Sense Sport & Pure 6.6 kW / 8.0 kW Fast-Heat Sauna",
+    "slug": "tylo-sense-sport-pure-66-kw-80-kw-fast-heat-sauna-kw-breaker-calculator",
+    "title": "Tylo Sense Sport & Pure 6.6 kW / 8.0 kW Fast-Heat Sauna kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (8.0 kW for 534 Adjusted Cu Ft / 294 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 45 lbs olivine rocks for Tylo Sense Sport & Pure 6.6 kW / 8.0 kW Fast-Heat Sauna.",
+    "kw": 8.0,
+    "brk_a": 50,
+    "adj_cu": 534,
+    "stones": 45,
+    "date": "2026-11-10"
+  },
+  {
+    "sauna_name": "Sawo Scandia & Aries 6.0 kW / 8.0 kW / 9.0 kW Sauna Stove",
+    "slug": "sawo-scandia-aries-60-kw-80-kw-90-kw-sauna-stove-kw-breaker-calculator",
+    "title": "Sawo Scandia & Aries 6.0 kW / 8.0 kW / 9.0 kW Sauna Stove kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (8.0 kW for 585 Adjusted Cu Ft / 315 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 50 lbs olivine rocks for Sawo Scandia & Aries 6.0 kW / 8.0 kW / 9.0 kW Sauna Stove.",
+    "kw": 8.0,
+    "brk_a": 50,
+    "adj_cu": 585,
+    "stones": 50,
+    "date": "2026-11-10"
   }
 ]
