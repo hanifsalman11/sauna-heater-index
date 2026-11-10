@@ -64,5 +64,38 @@
     "adj_cu": 564,
     "stones": 110,
     "date": "2026-11-09"
+  },
+  {
+    "sauna_name": "Harvia Virta HL90E / HL110E (9.0 kW / 10.5 kW) Floor Heater",
+    "slug": "harvia-virta-hl90e-hl110e-90-kw-105-kw-floor-heater-kw-breaker-calculator",
+    "title": "Harvia Virta HL90E / HL110E (9.0 kW / 10.5 kW) Floor Heater kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (10.5 kW for 879 Adjusted Cu Ft / 504 Raw Cu Ft), 240V NEC breaker & wire (60A / 6/2 AWG or 4/2 AWG Copper + External Contactor Box), and 150 lbs olivine rocks for Harvia Virta HL90E / HL110E (9.0 kW / 10.5 kW) Floor Heater.",
+    "kw": 10.5,
+    "brk_a": 60,
+    "adj_cu": 879,
+    "stones": 150,
+    "date": "2026-11-10"
+  },
+  {
+    "sauna_name": "HUUM DROP 6 kW & 9 kW Wall-Mounted Teardrop Sauna Heater",
+    "slug": "huum-drop-6-kw-9-kw-wall-mounted-teardrop-sauna-heater-kw-breaker-calculator",
+    "title": "HUUM DROP 6 kW & 9 kW Wall-Mounted Teardrop Sauna Heater kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (9.0 kW for 641 Adjusted Cu Ft / 341 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 125 lbs olivine rocks for HUUM DROP 6 kW & 9 kW Wall-Mounted Teardrop Sauna Heater.",
+    "kw": 9.0,
+    "brk_a": 50,
+    "adj_cu": 641,
+    "stones": 125,
+    "date": "2026-11-10"
+  },
+  {
+    "sauna_name": "HUUM HIVE Mini 6 kW / 9 kW / 11 kW Floor Pillar Heater",
+    "slug": "huum-hive-mini-6-kw-9-kw-11-kw-floor-pillar-heater-kw-breaker-calculator",
+    "title": "HUUM HIVE Mini 6 kW / 9 kW / 11 kW Floor Pillar Heater kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (9.0 kW for 752 Adjusted Cu Ft / 392 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 330 lbs olivine rocks for HUUM HIVE Mini 6 kW / 9 kW / 11 kW Floor Pillar Heater.",
+    "kw": 9.0,
+    "brk_a": 50,
+    "adj_cu": 752,
+    "stones": 330,
+    "date": "2026-11-10"
   }
 ]
