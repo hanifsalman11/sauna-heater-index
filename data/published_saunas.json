@@ -97,5 +97,38 @@
     "adj_cu": 752,
     "stones": 330,
     "date": "2026-11-10"
+  },
+  {
+    "sauna_name": "HUUM STEEL 6 kW & 9 kW Slim Clearance Sauna Heater",
+    "slug": "huum-steel-6-kw-9-kw-slim-clearance-sauna-heater-kw-breaker-calculator",
+    "title": "HUUM STEEL 6 kW & 9 kW Slim Clearance Sauna Heater kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (9.0 kW for 564 Adjusted Cu Ft / 294 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 330 lbs olivine rocks for HUUM STEEL 6 kW & 9 kW Slim Clearance Sauna Heater.",
+    "kw": 9.0,
+    "brk_a": 50,
+    "adj_cu": 564,
+    "stones": 330,
+    "date": "2026-11-10"
+  },
+  {
+    "sauna_name": "VEVOR 6 kW 240V Stainless Steel Dry Steam Sauna Heater",
+    "slug": "vevor-6-kw-240v-stainless-steel-dry-steam-sauna-heater-kw-breaker-calculator",
+    "title": "VEVOR 6 kW 240V Stainless Steel Dry Steam Sauna Heater kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (6.0 kW for 420 Adjusted Cu Ft / 210 Raw Cu Ft), 240V NEC breaker & wire (40A / 8/2 AWG Stranded Copper (90°C Rated)), and 45 lbs olivine rocks for VEVOR 6 kW 240V Stainless Steel Dry Steam Sauna Heater.",
+    "kw": 6.0,
+    "brk_a": 40,
+    "adj_cu": 420,
+    "stones": 45,
+    "date": "2026-11-10"
+  },
+  {
+    "sauna_name": "VEVOR 8 kW & 9 kW 240V Commercial/Home Sauna Stove",
+    "slug": "vevor-8-kw-9-kw-240v-commercialhome-sauna-stove-kw-breaker-calculator",
+    "title": "VEVOR 8 kW & 9 kW 240V Commercial/Home Sauna Stove kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (9.0 kW for 606 Adjusted Cu Ft / 336 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 50 lbs olivine rocks for VEVOR 8 kW & 9 kW 240V Commercial/Home Sauna Stove.",
+    "kw": 9.0,
+    "brk_a": 50,
+    "adj_cu": 606,
+    "stones": 50,
+    "date": "2026-11-10"
   }
 ]
