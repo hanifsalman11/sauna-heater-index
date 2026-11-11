@@ -163,5 +163,38 @@
     "adj_cu": 585,
     "stones": 50,
     "date": "2026-11-10"
+  },
+  {
+    "sauna_name": "Finlandia FLB-60 & FLB-80 (6.0 kW / 8.0 kW) Sauna Heater",
+    "slug": "finlandia-flb-60-flb-80-60-kw-80-kw-sauna-heater-kw-breaker-calculator",
+    "title": "Finlandia FLB-60 & FLB-80 (6.0 kW / 8.0 kW) Sauna Heater kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (8.0 kW for 534 Adjusted Cu Ft / 294 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 50 lbs olivine rocks for Finlandia FLB-60 & FLB-80 (6.0 kW / 8.0 kW) Sauna Heater.",
+    "kw": 8.0,
+    "brk_a": 50,
+    "adj_cu": 534,
+    "stones": 50,
+    "date": "2026-11-11"
+  },
+  {
+    "sauna_name": " Polar / Amerec Junior 2.2 kW (120V) & Designer 6.0 kW (240V)",
+    "slug": "polar-amerec-junior-22-kw-120v-designer-60-kw-240v-kw-breaker-calculator",
+    "title": " Polar / Amerec Junior 2.2 kW (120V) & Designer 6.0 kW (240V) kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (3.0 kW for 254 Adjusted Cu Ft / 104 Raw Cu Ft), 240V NEC breaker & wire (20A / 12/2 AWG Copper (90°C Rated THHN/NM-B)), and 30 lbs olivine rocks for  Polar / Amerec Junior 2.2 kW (120V) & Designer 6.0 kW (240V).",
+    "kw": 3.0,
+    "brk_a": 20,
+    "adj_cu": 254,
+    "stones": 30,
+    "date": "2026-11-11"
+  },
+  {
+    "sauna_name": "Homecraft Revive 6 kW / 7.5 kW / 9 kW Tower Sauna Heater",
+    "slug": "homecraft-revive-6-kw-75-kw-9-kw-tower-sauna-heater-kw-breaker-calculator",
+    "title": "Homecraft Revive 6 kW / 7.5 kW / 9 kW Tower Sauna Heater kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (9.0 kW for 641 Adjusted Cu Ft / 341 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 150 lbs olivine rocks for Homecraft Revive 6 kW / 7.5 kW / 9 kW Tower Sauna Heater.",
+    "kw": 9.0,
+    "brk_a": 50,
+    "adj_cu": 641,
+    "stones": 150,
+    "date": "2026-11-11"
   }
 ]
