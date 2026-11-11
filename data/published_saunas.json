@@ -196,5 +196,38 @@
     "adj_cu": 641,
     "stones": 150,
     "date": "2026-11-11"
+  },
+  {
+    "sauna_name": "4x4x6.5 Ft 2-Person Compact Indoor Cedar Sauna Sizing",
+    "slug": "4x4x65-ft-2-person-compact-indoor-cedar-sauna-sizing-kw-breaker-calculator",
+    "title": "4x4x6.5 Ft 2-Person Compact Indoor Cedar Sauna Sizing kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (3.5 kW for 314 Adjusted Cu Ft / 104 Raw Cu Ft), 240V NEC breaker & wire (20A / 12/2 AWG Copper (90°C Rated THHN/NM-B)), and 45 lbs olivine rocks for 4x4x6.5 Ft 2-Person Compact Indoor Cedar Sauna Sizing.",
+    "kw": 3.5,
+    "brk_a": 20,
+    "adj_cu": 314,
+    "stones": 45,
+    "date": "2026-11-11"
+  },
+  {
+    "sauna_name": "5x6x7 Ft 3-Person Home Basement Dry Sauna Sizing",
+    "slug": "5x6x7-ft-3-person-home-basement-dry-sauna-sizing-kw-breaker-calculator",
+    "title": "5x6x7 Ft 3-Person Home Basement Dry Sauna Sizing kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (6.0 kW for 435 Adjusted Cu Ft / 210 Raw Cu Ft), 240V NEC breaker & wire (40A / 8/2 AWG Stranded Copper (90°C Rated)), and 50 lbs olivine rocks for 5x6x7 Ft 3-Person Home Basement Dry Sauna Sizing.",
+    "kw": 6.0,
+    "brk_a": 40,
+    "adj_cu": 435,
+    "stones": 50,
+    "date": "2026-11-11"
+  },
+  {
+    "sauna_name": "6x7x7 Ft 4-Person Family Cedar Sauna w/ Glass Door Sizing",
+    "slug": "6x7x7-ft-4-person-family-cedar-sauna-w-glass-door-sizing-kw-breaker-calculator",
+    "title": "6x7x7 Ft 4-Person Family Cedar Sauna w/ Glass Door Sizing kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (8.0 kW for 564 Adjusted Cu Ft / 294 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 60 lbs olivine rocks for 6x7x7 Ft 4-Person Family Cedar Sauna w/ Glass Door Sizing.",
+    "kw": 8.0,
+    "brk_a": 50,
+    "adj_cu": 564,
+    "stones": 60,
+    "date": "2026-11-11"
   }
 ]
