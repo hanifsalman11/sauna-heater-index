@@ -229,5 +229,38 @@
     "adj_cu": 564,
     "stones": 60,
     "date": "2026-11-11"
+  },
+  {
+    "sauna_name": "6x8x7 Ft 5-Person Custom Sauna w/ Panoramic Glass Wall",
+    "slug": "6x8x7-ft-5-person-custom-sauna-w-panoramic-glass-wall-kw-breaker-calculator",
+    "title": "6x8x7 Ft 5-Person Custom Sauna w/ Panoramic Glass Wall kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (9.0 kW for 876 Adjusted Cu Ft / 336 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 90 lbs olivine rocks for 6x8x7 Ft 5-Person Custom Sauna w/ Panoramic Glass Wall.",
+    "kw": 9.0,
+    "brk_a": 50,
+    "adj_cu": 876,
+    "stones": 90,
+    "date": "2026-11-12"
+  },
+  {
+    "sauna_name": "8x8x7 Ft 6-to-8 Person Commercial & Gym Sauna Sizing",
+    "slug": "8x8x7-ft-6-to-8-person-commercial-gym-sauna-sizing-kw-breaker-calculator",
+    "title": "8x8x7 Ft 6-to-8 Person Commercial & Gym Sauna Sizing kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (10.5 kW for 808 Adjusted Cu Ft / 448 Raw Cu Ft), 240V NEC breaker & wire (60A / 6/2 AWG or 4/2 AWG Copper + External Contactor Box), and 130 lbs olivine rocks for 8x8x7 Ft 6-to-8 Person Commercial & Gym Sauna Sizing.",
+    "kw": 10.5,
+    "brk_a": 60,
+    "adj_cu": 808,
+    "stones": 130,
+    "date": "2026-11-12"
+  },
+  {
+    "sauna_name": "6x6 Ft 4-Person Outdoor Uninsulated Cedar Barrel Sauna",
+    "slug": "6x6-ft-4-person-outdoor-uninsulated-cedar-barrel-sauna-kw-breaker-calculator",
+    "title": "6x6 Ft 4-Person Outdoor Uninsulated Cedar Barrel Sauna kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (6.0 kW for 511 Adjusted Cu Ft / 216 Raw Cu Ft), 240V NEC breaker & wire (40A / 8/2 AWG Stranded Copper (90°C Rated)), and 50 lbs olivine rocks for 6x6 Ft 4-Person Outdoor Uninsulated Cedar Barrel Sauna.",
+    "kw": 6.0,
+    "brk_a": 40,
+    "adj_cu": 511,
+    "stones": 50,
+    "date": "2026-11-12"
   }
 ]
