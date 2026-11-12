@@ -262,5 +262,38 @@
     "adj_cu": 511,
     "stones": 50,
     "date": "2026-11-12"
+  },
+  {
+    "sauna_name": "6x7 Ft 6-Person Outdoor Cedar Barrel Sauna (Winter Spec)",
+    "slug": "6x7-ft-6-person-outdoor-cedar-barrel-sauna-winter-spec-kw-breaker-calculator",
+    "title": "6x7 Ft 6-Person Outdoor Cedar Barrel Sauna (Winter Spec) kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (8.0 kW for 590 Adjusted Cu Ft / 252 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 55 lbs olivine rocks for 6x7 Ft 6-Person Outdoor Cedar Barrel Sauna (Winter Spec).",
+    "kw": 8.0,
+    "brk_a": 50,
+    "adj_cu": 590,
+    "stones": 55,
+    "date": "2026-11-12"
+  },
+  {
+    "sauna_name": "6x8 Ft 8-Person Outdoor Panoramic Window Barrel Sauna",
+    "slug": "6x8-ft-8-person-outdoor-panoramic-window-barrel-sauna-kw-breaker-calculator",
+    "title": "6x8 Ft 8-Person Outdoor Panoramic Window Barrel Sauna kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (9.0 kW for 850 Adjusted Cu Ft / 288 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 80 lbs olivine rocks for 6x8 Ft 8-Person Outdoor Panoramic Window Barrel Sauna.",
+    "kw": 9.0,
+    "brk_a": 50,
+    "adj_cu": 850,
+    "stones": 80,
+    "date": "2026-11-12"
+  },
+  {
+    "sauna_name": "Almost Heaven Pinnacle 4-Person Barrel Sauna Heater Sizing",
+    "slug": "almost-heaven-pinnacle-4-person-barrel-sauna-heater-sizing-kw-breaker-calculator",
+    "title": "Almost Heaven Pinnacle 4-Person Barrel Sauna Heater Sizing kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (6.0 kW for 511 Adjusted Cu Ft / 216 Raw Cu Ft), 240V NEC breaker & wire (40A / 8/2 AWG Stranded Copper (90°C Rated)), and 50 lbs olivine rocks for Almost Heaven Pinnacle 4-Person Barrel Sauna Heater Sizing.",
+    "kw": 6.0,
+    "brk_a": 40,
+    "adj_cu": 511,
+    "stones": 50,
+    "date": "2026-11-12"
   }
 ]
