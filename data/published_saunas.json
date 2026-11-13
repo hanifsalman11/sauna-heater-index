@@ -295,5 +295,38 @@
     "adj_cu": 511,
     "stones": 50,
     "date": "2026-11-12"
+  },
+  {
+    "sauna_name": "Almost Heaven Audra & Bridgeport 6-Person Sauna Sizing",
+    "slug": "almost-heaven-audra-bridgeport-6-person-sauna-sizing-kw-breaker-calculator",
+    "title": "Almost Heaven Audra & Bridgeport 6-Person Sauna Sizing kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (8.0 kW for 543 Adjusted Cu Ft / 273 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 50 lbs olivine rocks for Almost Heaven Audra & Bridgeport 6-Person Sauna Sizing.",
+    "kw": 8.0,
+    "brk_a": 50,
+    "adj_cu": 543,
+    "stones": 50,
+    "date": "2026-11-13"
+  },
+  {
+    "sauna_name": "8.0 kW vs 9.0 kW Sauna Heater 240V Breaker & 8 AWG Wire",
+    "slug": "80-kw-vs-90-kw-sauna-heater-240v-breaker-8-awg-wire-kw-breaker-calculator",
+    "title": "8.0 kW vs 9.0 kW Sauna Heater 240V Breaker & 8 AWG Wire kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (9.0 kW for 664 Adjusted Cu Ft / 364 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 80 lbs olivine rocks for 8.0 kW vs 9.0 kW Sauna Heater 240V Breaker & 8 AWG Wire.",
+    "kw": 9.0,
+    "brk_a": 50,
+    "adj_cu": 664,
+    "stones": 80,
+    "date": "2026-11-13"
+  },
+  {
+    "sauna_name": "6.0 kW Sauna Heater 240V 30A Breaker & 10 AWG Wire Setup",
+    "slug": "60-kw-sauna-heater-240v-30a-breaker-10-awg-wire-setup-kw-breaker-calculator",
+    "title": "6.0 kW Sauna Heater 240V 30A Breaker & 10 AWG Wire Setup kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (6.0 kW for 441 Adjusted Cu Ft / 231 Raw Cu Ft), 240V NEC breaker & wire (40A / 8/2 AWG Stranded Copper (90°C Rated)), and 50 lbs olivine rocks for 6.0 kW Sauna Heater 240V 30A Breaker & 10 AWG Wire Setup.",
+    "kw": 6.0,
+    "brk_a": 40,
+    "adj_cu": 441,
+    "stones": 50,
+    "date": "2026-11-13"
   }
 ]
