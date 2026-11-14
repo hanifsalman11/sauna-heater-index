@@ -361,5 +361,38 @@
     "adj_cu": 555,
     "stones": 60,
     "date": "2026-11-13"
+  },
+  {
+    "sauna_name": "What  Electric Heater  Sauna",
+    "slug": "what-electric-heater-sauna-kw-breaker-calculator",
+    "title": "What  Electric Heater  Sauna kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (8.0 kW for 555 Adjusted Cu Ft / 315 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 60 lbs olivine rocks for What  Electric Heater  Sauna.",
+    "kw": 8.0,
+    "brk_a": 50,
+    "adj_cu": 555,
+    "stones": 60,
+    "date": "2026-11-14"
+  },
+  {
+    "sauna_name": "What  Cable  Sauna Heater",
+    "slug": "what-cable-sauna-heater-kw-breaker-calculator",
+    "title": "What  Cable  Sauna Heater kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (8.0 kW for 555 Adjusted Cu Ft / 315 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 60 lbs olivine rocks for What  Cable  Sauna Heater.",
+    "kw": 8.0,
+    "brk_a": 50,
+    "adj_cu": 555,
+    "stones": 60,
+    "date": "2026-11-14"
+  },
+  {
+    "sauna_name": "What  Heater  Barrel Sauna",
+    "slug": "what-heater-barrel-sauna-kw-breaker-calculator",
+    "title": "What  Heater  Barrel Sauna kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (8.0 kW for 666 Adjusted Cu Ft / 315 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 60 lbs olivine rocks for What  Heater  Barrel Sauna.",
+    "kw": 8.0,
+    "brk_a": 50,
+    "adj_cu": 666,
+    "stones": 60,
+    "date": "2026-11-14"
   }
 ]
