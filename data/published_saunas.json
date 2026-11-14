@@ -427,5 +427,38 @@
     "adj_cu": 555,
     "stones": 60,
     "date": "2026-11-14"
+  },
+  {
+    "sauna_name": "What  Breaker  6Kw Sauna Heater",
+    "slug": "what-breaker-6kw-sauna-heater-kw-breaker-calculator",
+    "title": "What  Breaker  6Kw Sauna Heater kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (6.0 kW for 450 Adjusted Cu Ft / 210 Raw Cu Ft), 240V NEC breaker & wire (40A / 8/2 AWG Stranded Copper (90°C Rated)), and 60 lbs olivine rocks for What  Breaker  6Kw Sauna Heater.",
+    "kw": 6.0,
+    "brk_a": 40,
+    "adj_cu": 450,
+    "stones": 60,
+    "date": "2026-11-14"
+  },
+  {
+    "sauna_name": "Harvia Sauna Heater How To Use",
+    "slug": "harvia-sauna-heater-how-to-use-kw-breaker-calculator",
+    "title": "Harvia Sauna Heater How To Use kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (8.0 kW for 555 Adjusted Cu Ft / 315 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 60 lbs olivine rocks for Harvia Sauna Heater How To Use.",
+    "kw": 8.0,
+    "brk_a": 50,
+    "adj_cu": 555,
+    "stones": 60,
+    "date": "2026-11-14"
+  },
+  {
+    "sauna_name": "Harvia Sauna Heater How To Turn On",
+    "slug": "harvia-sauna-heater-how-to-turn-on-kw-breaker-calculator",
+    "title": "Harvia Sauna Heater How To Turn On kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (8.0 kW for 555 Adjusted Cu Ft / 315 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 60 lbs olivine rocks for Harvia Sauna Heater How To Turn On.",
+    "kw": 8.0,
+    "brk_a": 50,
+    "adj_cu": 555,
+    "stones": 60,
+    "date": "2026-11-14"
   }
 ]
