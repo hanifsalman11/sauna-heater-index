@@ -493,5 +493,38 @@
     "adj_cu": 555,
     "stones": 60,
     "date": "2026-11-15"
+  },
+  {
+    "sauna_name": "Harvia Sauna Heater Reset Button",
+    "slug": "harvia-sauna-heater-reset-button-kw-breaker-calculator",
+    "title": "Harvia Sauna Heater Reset Button kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (8.0 kW for 555 Adjusted Cu Ft / 315 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 60 lbs olivine rocks for Harvia Sauna Heater Reset Button.",
+    "kw": 8.0,
+    "brk_a": 50,
+    "adj_cu": 555,
+    "stones": 60,
+    "date": "2026-11-15"
+  },
+  {
+    "sauna_name": "Harvia Sauna Heater Electric",
+    "slug": "harvia-sauna-heater-electric-kw-breaker-calculator",
+    "title": "Harvia Sauna Heater Electric kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (8.0 kW for 555 Adjusted Cu Ft / 315 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 60 lbs olivine rocks for Harvia Sauna Heater Electric.",
+    "kw": 8.0,
+    "brk_a": 50,
+    "adj_cu": 555,
+    "stones": 60,
+    "date": "2026-11-15"
+  },
+  {
+    "sauna_name": "Harvia Sauna Heater Not Turning On",
+    "slug": "harvia-sauna-heater-not-turning-on-kw-breaker-calculator",
+    "title": "Harvia Sauna Heater Not Turning On kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (8.0 kW for 555 Adjusted Cu Ft / 315 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 60 lbs olivine rocks for Harvia Sauna Heater Not Turning On.",
+    "kw": 8.0,
+    "brk_a": 50,
+    "adj_cu": 555,
+    "stones": 60,
+    "date": "2026-11-15"
   }
 ]
