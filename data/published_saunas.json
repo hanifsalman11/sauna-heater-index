@@ -559,5 +559,38 @@
     "adj_cu": 555,
     "stones": 60,
     "date": "2026-11-16"
+  },
+  {
+    "sauna_name": "Huum Drop Sauna Heater Installation",
+    "slug": "huum-drop-sauna-heater-installation-kw-breaker-calculator",
+    "title": "Huum Drop Sauna Heater Installation kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (8.0 kW for 555 Adjusted Cu Ft / 315 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 60 lbs olivine rocks for Huum Drop Sauna Heater Installation.",
+    "kw": 8.0,
+    "brk_a": 50,
+    "adj_cu": 555,
+    "stones": 60,
+    "date": "2026-11-16"
+  },
+  {
+    "sauna_name": "Huum Drop Sauna Heater Canada",
+    "slug": "huum-drop-sauna-heater-canada-kw-breaker-calculator",
+    "title": "Huum Drop Sauna Heater Canada kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (8.0 kW for 555 Adjusted Cu Ft / 315 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 60 lbs olivine rocks for Huum Drop Sauna Heater Canada.",
+    "kw": 8.0,
+    "brk_a": 50,
+    "adj_cu": 555,
+    "stones": 60,
+    "date": "2026-11-16"
+  },
+  {
+    "sauna_name": "Huum Drop Sauna Heater Wifi",
+    "slug": "huum-drop-sauna-heater-wifi-kw-breaker-calculator",
+    "title": "Huum Drop Sauna Heater Wifi kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (8.0 kW for 555 Adjusted Cu Ft / 315 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 60 lbs olivine rocks for Huum Drop Sauna Heater Wifi.",
+    "kw": 8.0,
+    "brk_a": 50,
+    "adj_cu": 555,
+    "stones": 60,
+    "date": "2026-11-16"
   }
 ]
