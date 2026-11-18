@@ -658,5 +658,16 @@
     "adj_cu": 350,
     "stones": 50,
     "date": "2026-11-17"
+  },
+  {
+    "sauna_name": "4x5 Ft 2-Person Sauna with Glass Door + Side Window (28 Sq Ft)",
+    "slug": "4x5-ft-2-person-sauna-with-glass-door-side-window-28-sq-ft-kw-breaker-calculator",
+    "title": "4x5 Ft 2-Person Sauna with Glass Door + Side Window (28 Sq Ft) kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (10.5 kW for 560 Adjusted Cu Ft / 140 Raw Cu Ft), 240V NEC breaker & wire (60A / 6/2 AWG or 4/2 AWG Copper + External Contactor Box), and 90 lbs olivine rocks for 4x5 Ft 2-Person Sauna with Glass Door + Side Window (28 Sq Ft).",
+    "kw": 10.5,
+    "brk_a": 60,
+    "adj_cu": 560,
+    "stones": 90,
+    "date": "2026-11-18"
   }
 ]
