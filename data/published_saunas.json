@@ -735,5 +735,16 @@
     "adj_cu": 612,
     "stones": 90,
     "date": "2026-11-21"
+  },
+  {
+    "sauna_name": "6x6 Ft 4-Person Sauna with Standard Glass Door (14 Sq Ft)",
+    "slug": "6x6-ft-4-person-sauna-with-standard-glass-door-14-sq-ft-kw-breaker-calculator",
+    "title": "6x6 Ft 4-Person Sauna with Standard Glass Door (14 Sq Ft) kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (9.0 kW for 462 Adjusted Cu Ft / 252 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 90 lbs olivine rocks for 6x6 Ft 4-Person Sauna with Standard Glass Door (14 Sq Ft).",
+    "kw": 9.0,
+    "brk_a": 50,
+    "adj_cu": 462,
+    "stones": 90,
+    "date": "2026-11-21"
   }
 ]
