@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hanifsalman11.github.io/sauna-heater-index/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -399,6 +399,12 @@
   <url>
     <loc>https://hanifsalman11.github.io/sauna-heater-index/5x6-ft-3-person-sauna-with-full-panoramic-front-glass-wall-42-sq-ft-kw-breaker-calculator.html</loc>
     <lastmod>2026-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/sauna-heater-index/5x6-ft-3-person-sauna-with-outdoor-uninsulated-cedar-barrel-kw-breaker-calculator.html</loc>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
