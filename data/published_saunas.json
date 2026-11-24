@@ -779,5 +779,27 @@
     "adj_cu": 662,
     "stones": 90,
     "date": "2026-11-23"
+  },
+  {
+    "sauna_name": "What  Breaker  8Kw Sauna Heater",
+    "slug": "what-breaker-8kw-sauna-heater-kw-breaker-calculator",
+    "title": "What  Breaker  8Kw Sauna Heater kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (8.0 kW for 555 Adjusted Cu Ft / 315 Raw Cu Ft), 240V NEC breaker & wire (50A / 6/2 AWG Stranded Copper (90°C Rated)), and 60 lbs olivine rocks for What  Breaker  8Kw Sauna Heater.",
+    "kw": 8.0,
+    "brk_a": 50,
+    "adj_cu": 555,
+    "stones": 60,
+    "date": "2026-11-24"
+  },
+  {
+    "sauna_name": "6x7 Ft 5-Person Sauna with Standard Glass Door (14 Sq Ft)",
+    "slug": "6x7-ft-5-person-sauna-with-standard-glass-door-14-sq-ft-kw-breaker-calculator",
+    "title": "6x7 Ft 5-Person Sauna with Standard Glass Door (14 Sq Ft) kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (10.5 kW for 504 Adjusted Cu Ft / 294 Raw Cu Ft), 240V NEC breaker & wire (60A / 6/2 AWG or 4/2 AWG Copper + External Contactor Box), and 90 lbs olivine rocks for 6x7 Ft 5-Person Sauna with Standard Glass Door (14 Sq Ft).",
+    "kw": 10.5,
+    "brk_a": 60,
+    "adj_cu": 504,
+    "stones": 90,
+    "date": "2026-11-24"
   }
 ]
