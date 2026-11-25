@@ -823,5 +823,16 @@
     "adj_cu": 924,
     "stones": 90,
     "date": "2026-11-24"
+  },
+  {
+    "sauna_name": "6x7 Ft 5-Person Sauna with Outdoor Uninsulated Cedar Barrel",
+    "slug": "6x7-ft-5-person-sauna-with-outdoor-uninsulated-cedar-barrel-kw-breaker-calculator",
+    "title": "6x7 Ft 5-Person Sauna with Outdoor Uninsulated Cedar Barrel kW Heater, Adjusted Cubic Feet & Breaker Calculator (2026)",
+    "description": "Calculate exact sauna heater size (10.5 kW for 713 Adjusted Cu Ft / 294 Raw Cu Ft), 240V NEC breaker & wire (60A / 6/2 AWG or 4/2 AWG Copper + External Contactor Box), and 90 lbs olivine rocks for 6x7 Ft 5-Person Sauna with Outdoor Uninsulated Cedar Barrel.",
+    "kw": 10.5,
+    "brk_a": 60,
+    "adj_cu": 713,
+    "stones": 90,
+    "date": "2026-11-25"
   }
 ]
